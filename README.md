@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joe-liad
-- 👀 I’m interested in reflective services
-- 🌱 I’m currently learning asc and ctax
-- 💞️ I’m looking to collaborate on council data
+- 👀 I’m interested in reflective services and design-driven-data-driven-design
+- 🌱 I’m currently learning about wealth
+- 💞️ I’m looking to collaborate on council linked-data projects
 
 <!---
 joelewisham/joelewisham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
